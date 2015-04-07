@@ -1,9 +1,9 @@
 {
   "name": "intravenous",
   "directories": {
-    "lib": "./build/output/lib"
+    "lib": "./build/output"
   },
-  "main": "intravenous.js",
+  "main": "intravenous-latest.debug.js",
   "version": "0.1.4-beta",
   "description": "Lightweight dependency injection for Javascript",
   "format": "cjs"

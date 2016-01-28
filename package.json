@@ -3,7 +3,7 @@
   "directories": {
     "lib": "./build/output"
   },
-  "main": "intravenous-latest.debug.js",
+  "main": "./build/output/intravenous-latest.debug.js",
   "version": "0.1.4-beta",
   "description": "Lightweight dependency injection for Javascript",
   "format": "cjs"
